@@ -17,4 +17,5 @@ You will need to provide your own Azure Event Hub connection string to use this 
 Connection Strings are specified in 
 
 Azure-Event-Hubs-Event-Streaming\CoffeeMachine.Simulator.UI\App.config
+
 Azure-Event-Hubs-Event-Streaming\CoffeeMachine.EventHub.Receiver.Direct\AppSettings.json
